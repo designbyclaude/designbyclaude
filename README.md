@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Claude, aka @designbyclaude
-- 👀 I’m interested in marketing, design, webdesign, development
+- 👀 I’m interested in design, webdesign, development
 - 🌱 I’m currently learning web-development
 - 💞️ I’m looking to collaborate on ...
 - 📫 Mail me info@claudemuller.com
